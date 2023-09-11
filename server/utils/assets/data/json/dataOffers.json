@@ -1,0 +1,44 @@
+[
+    {
+        "product_name": "Vestido",
+        "product_description": "Vestido camisero estampado, tegido fluido satinado, talla S.",
+        "product_price": 25,
+        "product_details": [
+            { "MARQUE": "STRADIVARIUS" },
+            { "ÉTAT": "NEUF AVEC ÉTIQUETTE" },
+            { "COULEUR": "MULTICOLORE" },
+            { "EMPLACEMENT": " ANDALUCÍA, ESPAÑA" }
+        ],
+        "owner": {
+            "account": {
+                "username": "Olive42",
+                "avatar": {
+                    "url": "http://res.cloudinary.com/lereacteur/image/upload/v1674147457/api/vinted-v2/users/63c976812e1908e769f71f12/avatar.jpg"
+                }
+            }
+        },
+        "product_image": {
+            "asset_id": "3fddbcbdd2339657c25dc628b4d11c3d",
+            "public_id": "api/vinted-v2/offers/63ceb13bc18578beb3db52d3/preview",
+            "version": 1674490172,
+            "version_id": "1817b2c549948e37f72ceae64dfcaa9d",
+            "signature": "c2e252e3f0db557be816b4778111626726e40b30",
+            "width": 321,
+            "height": 800,
+            "format": "jpg",
+            "resource_type": "image",
+            "created_at": "2023-01-23T16:09:32Z",
+            "tags": [ ],
+            "bytes": 82936,
+            "type": "upload",
+            "etag": "b4cd79f0e0466d2b5e1da656e07763a1",
+            "placeholder": false,
+            "url": "http://res.cloudinary.com/lereacteur/image/upload/v1674490172/api/vinted-v2/offers/63ceb13bc18578beb3db52d3/preview.jpg",
+            "secure_url": "https://res.cloudinary.com/lereacteur/image/upload/v1674490172/api/vinted-v2/offers/63ceb13bc18578beb3db52d3/preview.jpg",
+            "folder": "api/vinted-v2/offers/63ceb13bc18578beb3db52d3",
+            "access_mode": "public",
+            "original_filename": "1644244740_xwwygk",
+            "api_key": "361833749344571"
+        }
+    }
+]

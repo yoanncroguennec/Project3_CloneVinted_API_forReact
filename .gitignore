@@ -1,0 +1,8 @@
+# misc
+node_modules
+.env
+
+
+# other
+package-lock.json
+LESSON.md
